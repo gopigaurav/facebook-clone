@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/facebook-clone/static/css/main.e1a68fa0.chunk.css",
+    "main.js": "/facebook-clone/static/js/main.0e916867.chunk.js",
+    "main.js.map": "/facebook-clone/static/js/main.0e916867.chunk.js.map",
+    "runtime-main.js": "/facebook-clone/static/js/runtime-main.d9aa6d54.js",
+    "runtime-main.js.map": "/facebook-clone/static/js/runtime-main.d9aa6d54.js.map",
+    "static/js/2.eb0db3f0.chunk.js": "/facebook-clone/static/js/2.eb0db3f0.chunk.js",
+    "static/js/2.eb0db3f0.chunk.js.map": "/facebook-clone/static/js/2.eb0db3f0.chunk.js.map",
+    "index.html": "/facebook-clone/index.html",
+    "precache-manifest.591429748908a7787a0ae7a182960ed1.js": "/facebook-clone/precache-manifest.591429748908a7787a0ae7a182960ed1.js",
+    "service-worker.js": "/facebook-clone/service-worker.js",
+    "static/css/main.e1a68fa0.chunk.css.map": "/facebook-clone/static/css/main.e1a68fa0.chunk.css.map",
+    "static/js/2.eb0db3f0.chunk.js.LICENSE.txt": "/facebook-clone/static/js/2.eb0db3f0.chunk.js.LICENSE.txt",
+    "static/media/arrow.48ae6434.svg": "/facebook-clone/static/media/arrow.48ae6434.svg",
+    "static/media/bell.e9fd40a7.svg": "/facebook-clone/static/media/bell.e9fd40a7.svg",
+    "static/media/caret.615e14d1.svg": "/facebook-clone/static/media/caret.615e14d1.svg",
+    "static/media/chevron.efbb2bd6.svg": "/facebook-clone/static/media/chevron.efbb2bd6.svg",
+    "static/media/cog.993f0cc0.svg": "/facebook-clone/static/media/cog.993f0cc0.svg",
+    "static/media/css.jpg": "/facebook-clone/static/media/css.3f3ed8cc.jpg",
+    "static/media/fbLogo.webp": "/facebook-clone/static/media/fbLogo.e34aec03.webp",
+    "static/media/fbTextLogo.svg": "/facebook-clone/static/media/fbTextLogo.093d926c.svg",
+    "static/media/front-end-steps.jpg": "/facebook-clone/static/media/front-end-steps.5e37d697.jpg",
+    "static/media/front-end.jpg": "/facebook-clone/static/media/front-end.fe155e68.jpg",
+    "static/media/html.jpg": "/facebook-clone/static/media/html.a586897f.jpg",
+    "static/media/js.jpg": "/facebook-clone/static/media/js.87a6e1f3.jpg",
+    "static/media/messenger.9fdc8d67.svg": "/facebook-clone/static/media/messenger.9fdc8d67.svg",
+    "static/media/plus.9311af2e.svg": "/facebook-clone/static/media/plus.9311af2e.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d9aa6d54.js",
+    "static/js/2.eb0db3f0.chunk.js",
+    "static/css/main.e1a68fa0.chunk.css",
+    "static/js/main.0e916867.chunk.js"
+  ]
+}
